@@ -1,0 +1,9 @@
+﻿$ cd html-lab
+$ git init
+Initialized empty Git repository in C:/Users/DELL/.gemini/antigravity/scratch/html-css-lab-bcs352/git-tasks/assignment-01/html-lab/.git/
+$ git config --local user.name "Nikhil Pathak"
+$ git config --local user.email "BCS2025397@invertis.ac.in"
+$ git config user.name
+Nikhil Pathak
+$ git config user.email
+bcs2025397@invertis.ac.in
